@@ -4,7 +4,7 @@ int main() {
     char nome[50];  
     int xp;         
 
-    // Entrada de dados
+    
     printf("Digite o nome do herói: ");
     scanf("%49s", nome);  
 
